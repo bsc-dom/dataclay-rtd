@@ -3,5 +3,19 @@
     :align: center
     :alt: dataClay logo
 
-Welcome to dataClay documentation.
+.. toctree::
+    :hidden:
+    :caption: Quickstart
 
+    quickstart/dockercompose
+
+.. toctree::
+    :hidden:
+    :caption: Developers
+
+    devel/dockerbuild
+
+dataClay Documentation
+======================
+
+Welcome to dataClay documentation!
