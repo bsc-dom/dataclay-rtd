@@ -14,6 +14,7 @@
     :caption: Developers
 
     devel/dockerbuild
+    devel/compileredis
 
 dataClay Documentation
 ======================
